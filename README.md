@@ -4,8 +4,8 @@
 
 ### The following API is available
 
-    #### / - GET - Get all flights
-    #### / - POST - Add/Book all flights
-    #### /:id - GET - Get a single flight based on provided id
-    #### /:id - PUT - Update/Edit a single flight based on provided id
-    #### /:id - DELETE - Delete a single flight based on provided id
+    #### /flight - GET - Get all flights
+    #### /flight - POST - Add/Book all flights
+    #### /flight/:id - GET - Get a single flight based on provided id
+    #### /flight/:id - PUT - Update/Edit a single flight based on provided id
+    #### /flight/:id - DELETE - Delete a single flight based on provided id
